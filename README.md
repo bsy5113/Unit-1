@@ -2,6 +2,6 @@
 
 Intro to Github
 
-one
-two
-three
+one  
+two  
+three  
